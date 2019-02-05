@@ -131,11 +131,11 @@ SetExplorerThisPC               # SetExplorerQuickAccess
 # ShowThisPCOnDesktop           # HideThisPCFromDesktop
 # ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
 # ShowControlPanelOnDesktop     # HideControlPanelFromDesktop
-# HideDesktopFromThisPC         ShowDesktopInThisPC
-HideDesktopFromExplorer         # ShowDesktopInExplorer
+# HideDesktopFromThisPC         # ShowDesktopInThisPC
+# HideDesktopFromExplorer       # ShowDesktopInExplorer
 HideDocumentsFromThisPC         # ShowDocumentsInThisPC
 HideDocumentsFromExplorer       # ShowDocumentsInExplorer
-HideDownloadsFromThisPC         # ShowDownloadsInThisPC
+# HideDownloadsFromThisPC       # ShowDownloadsInThisPC
 HideDownloadsFromExplorer       # ShowDownloadsInExplorer
 HideMusicFromThisPC             # ShowMusicInThisPC
 HideMusicFromExplorer           # ShowMusicInExplorer
