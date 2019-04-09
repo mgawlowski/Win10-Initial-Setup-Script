@@ -2442,7 +2442,7 @@ Function UninstallMsftBloat {
 	Get-AppxPackage "Microsoft.ZuneVideo" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.WebMediaExtensions" | Remove-AppxPackage
 	Get-AppxPackage "Microsoft.MixedReality.Portal" | Remove-AppxPackage
-	Get-AppxPackage "Microsoft.YourPhone" | Remove-AppxPackage
+	# Get-AppxPackage "Microsoft.YourPhone" | Remove-AppxPackage
 }
 
 # Install default Microsoft applications
@@ -2537,12 +2537,8 @@ function UninstallThirdPartyBloat {
 	Get-AppxPackage "LenovoCorporation.LenovoID" | Remove-AppxPackage
 	Get-AppxPackage "LenovoCorporation.LenovoSettings" | Remove-AppxPackage
 	Get-AppxPackage "PandoraMediaInc.29680B314EFC2" | Remove-AppxPackage
-<<<<<<< HEAD
 	Get-AppxPackage "PricelinePartnerNetwork.Booking.comBigsavingsonhot" | Remove-AppxPackage
-	Get-AppxPackage "SpotifyAB.SpotifyMusic" | Remove-AppxPackage
-=======
 	# Get-AppxPackage "SpotifyAB.SpotifyMusic" | Remove-AppxPackage
->>>>>>> 2903219ae55a4966c1722e312aaa058e8d2b21ea
 	Get-AppxPackage "WinZipComputing.WinZipUniversal" | Remove-AppxPackage
 	Get-AppxPackage "XINGAG.XING" | Remove-AppxPackage
 	Get-AppxPackage "king.com.CandyCrushSaga" | Remove-AppxPackage

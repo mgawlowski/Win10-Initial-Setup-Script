@@ -133,18 +133,18 @@ SetExplorerThisPC               # SetExplorerQuickAccess
 # ShowControlPanelOnDesktop     # HideControlPanelFromDesktop
 # HideDesktopFromThisPC         # ShowDesktopInThisPC
 # HideDesktopFromExplorer       # ShowDesktopInExplorer
-HideDocumentsFromThisPC         # ShowDocumentsInThisPC
-HideDocumentsFromExplorer       # ShowDocumentsInExplorer
+# HideDocumentsFromThisPC       # ShowDocumentsInThisPC
+# HideDocumentsFromExplorer     # ShowDocumentsInExplorer
 # HideDownloadsFromThisPC       # ShowDownloadsInThisPC
-HideDownloadsFromExplorer       # ShowDownloadsInExplorer
-HideMusicFromThisPC             # ShowMusicInThisPC
-HideMusicFromExplorer           # ShowMusicInExplorer
-HidePicturesFromThisPC          # ShowPicturesInThisPC
-HidePicturesFromExplorer        # ShowPicturesInExplorer
-HideVideosFromThisPC            # ShowVideosInThisPC
-HideVideosFromExplorer          # ShowVideosInExplorer
-Hide3DObjectsFromThisPC         # Show3DObjectsInThisPC
-Hide3DObjectsFromExplorer       # Show3DObjectsInExplorer
+# HideDownloadsFromExplorer     # ShowDownloadsInExplorer
+# HideMusicFromThisPC           # ShowMusicInThisPC
+# HideMusicFromExplorer         # ShowMusicInExplorer
+# HidePicturesFromThisPC        # ShowPicturesInThisPC
+# HidePicturesFromExplorer      # ShowPicturesInExplorer
+# HideVideosFromThisPC          # ShowVideosInThisPC
+# HideVideosFromExplorer        # ShowVideosInExplorer
+# Hide3DObjectsFromThisPC       # Show3DObjectsInThisPC
+# Hide3DObjectsFromExplorer     # Show3DObjectsInExplorer
 HideIncludeInLibraryMenu        # ShowIncludeInLibraryMenu
 HideGiveAccessToMenu            # ShowGiveAccessToMenu
 HideShareMenu                   # ShowShareMenu
